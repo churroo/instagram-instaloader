@@ -47,7 +47,7 @@ The word on the Instagram account posting
 | ........ | ..... | ..... | ...... | ...... |
 
 ### How many dataset can be reached? 
-Have reached about 6490 words of dataset and size about 250kb.
+Have reached about 644 words of dataset and size about 250kb.
 
 ### How to process 
 
