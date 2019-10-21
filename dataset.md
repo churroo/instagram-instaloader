@@ -26,7 +26,7 @@ contains the contents of comments in each user account post.
 
 
 ### How many dataset can be reached? 
-Have reached about 14000 row of dataset and size about 1 mb
+Have reached about 2000 row of dataset and size about 1 mb
 
 
 ### How to process 
