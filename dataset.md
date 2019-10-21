@@ -35,6 +35,9 @@ Log in to your Instagram account with your username and password using the '''L 
 ### Bag Of Words
 Search for standard words in post account instagram.
 
+### Format
+Saved in .json 
+
 ### Field Names
 * Account :
 Contains a list of user accounts from the target Instagram account.
