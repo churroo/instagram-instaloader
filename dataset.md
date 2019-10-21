@@ -4,7 +4,7 @@
 This data is obtained from the list of followers of the target account.
 
 ### Format
-Saved in .csv 
+Saved in .csv and .json
 
 ### Field Names
 * Account :
