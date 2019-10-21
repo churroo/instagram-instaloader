@@ -54,5 +54,5 @@ Have reached about 644 words of dataset and size about 250kb.
 
 ### How to process 
 
-After successfully logging into the instragram and successfully retrieving followers from the results of crawling, then we take the standard words from the dictionary.text in accordance with the given contraints. After that take new words that are not in the dictionary. Text is from the post account followers that we have successfully crawled. After that iterates all the standard words from the post account. Collected in advance all the words we can until the iteration is finished. The output will be in the form of a json file like a table. The column will be filled if the words are in the Instagram account post.
+After successfully logging into the instragram and successfully retrieving followers from the results of crawling, then we take the standard words from the kamus.text in accordance with the given contraints. After that take new words that are not in the dictionary. Text is from the post account followers that we have successfully crawled. After that iterates all the standard words from the post account. Collected in advance all the words we can until the iteration is finished. The output will be in the form of a json file like a table. The column will be filled if the words are in the Instagram account post.
 
